@@ -1,4 +1,4 @@
-[![@noxen-cv](https://raw.githubusercontent.com/noxen-cv/noxen-cv/main/assets/README.md banner.gif)] (https://www.linkedin.com/in/christian-valenzuela-b68b92344/)
+[![@noxen-cv](https://raw.githubusercontent.com/noxen-cv/noxen-cv/main/assets/banner.gif)](https://www.linkedin.com/in/christian-valenzuela-b68b92344/)
 
 --- 
 
