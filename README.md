@@ -22,20 +22,26 @@ Passionate about software development and problem-solving. Currently honing skil
     <td valign="top" width="50%">
 
 **Frameworks & Tools**  
-- React, Tailwind CSS  
-- Node.js, Express  
 - Git & GitHub  
-- MySQL, MongoDB  
-- Figma, Premiere Pro  
+- MySQL  
+- Figma
 
 </td>
   </tr>
 </table>
 
----
+<!-- Popular Projects Section -->
+
+
+
+
+
+<!-- Contacts Section 
+
+Email: @mailto:cvalenzuela1404@gmail.com -->
+
 
 > _“Wherever you are, the on point of invisible line strokes and cloaks.”_ – **Unknown**
-
 
 <!-- Inspired from Carl Castanas Portfolio --> 
 [//]: <> (Credits: carlcastanas)  
