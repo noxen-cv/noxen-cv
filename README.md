@@ -2,9 +2,9 @@
 
 --- 
 
-<h4 align="center">🎓 3rd-Year BS Computer Science Student • 💻 Aspiring Software Engineer • 🎬 Passionate Filmmaker</h4>
+<h4 align="center">🎓 3rd-Year BS Computer Science Student • 💻 Software and Embedded Systems Developer • 🎬 Passionate Filmmaker</h4>
 
-Passionate about software development and problem-solving. Currently honing skills in algorithms, data structures, and full-stack web development at university.  
+A Creative Technolgist Passionate about software development and problem-solving. Currently honing skills in algorithms, data structures, and full-stack web development at university.  
 
 
 ### 🛠️ Tech Stack
@@ -30,6 +30,26 @@ Passionate about software development and problem-solving. Currently honing skil
   </tr>
 </table>
 
+### My Motto and Plan in a Codeform
+``` cpp
+do { if (StableJob = true) {
+        hobbies();
+        learnDev(); learnFilm();
+        learn_GeneratePassiveIncome();
+
+        if (skillsInDev >= 5 || skillsInFilm >= 5) {
+            LevelUp();  // You've grown, but the journey continues
+        }
+
+        // Every few milestones, take a pause to reflect
+        if (careerPathCount % 3 == 0 && careerPathCount != 0) {
+            ReflectAndRest();
+        }
+    }
+
+} while (!SuccessCondition());
+
+```
 <!-- Popular Projects Section -->
 
 
