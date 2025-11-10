@@ -32,13 +32,19 @@ A Creative Technolgist Passionate about software development and problem-solving
 
 ### My Motto:
 ``` cpp
-do { if (stableJob == true) {
-        hobbies();
-        learnDev(); learnFilm();
-        generatePassiveIncome();
+do { 
+  if (stableCareer == true) {     
+        hobbies();                // Fun
+        learnDev(); learnFilm();  // Learn
+        generateIncome();         // Grind
+        rest();                   // Rest
       }
-} while (Success == false);
+} while (Success == false);       // repeat, till Success
+
+// success not just in finance.
 ```
+
+
 <!-- Popular Projects Section -->
 
 
