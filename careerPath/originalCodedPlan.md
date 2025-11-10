@@ -15,5 +15,4 @@ do (Stable job = true) {							// While I still have a stable job
     IncreasePassiveIncome();                        // while also making money in passive income
 } while ( PassiveIncomeSuccess == false ) {}        // do all of this while not successful yet
 
-
 ```
