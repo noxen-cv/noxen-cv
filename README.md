@@ -30,29 +30,16 @@ A Creative Technolgist Passionate about software development and problem-solving
   </tr>
 </table>
 
-### My Motto and Plan in a Codeform
+### My Motto:
 ``` cpp
-do { if (StableJob = true) {
+do { if (stableJob == true) {
         hobbies();
         learnDev(); learnFilm();
-        learn_GeneratePassiveIncome();
-
-        if (skillsInDev >= 5 || skillsInFilm >= 5) {
-            LevelUp();  // You've grown, but the journey continues
-        }
-
-        // Every few milestones, take a pause to reflect
-        if (careerPathCount % 3 == 0 && careerPathCount != 0) {
-            ReflectAndRest();
-        }
-    }
-
-} while (!SuccessCondition());
-
+        generatePassiveIncome();
+      }
+} while (Success == false);
 ```
 <!-- Popular Projects Section -->
-
-
 
 
 
