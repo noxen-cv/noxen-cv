@@ -15,10 +15,11 @@ Building resilient, support-ready infrastructure and cohesive visual experiences
 ---
 
 #### 01 / about 
-```
+
 I bridge the gap between technical rigor and visual design. My focus is on reducing operational friction through automation (Terraform/Docker) while maintaining a creative eye for systems that are not just functional, but "support-ready."
-```
-#### ../ Technical Toolbox
+
+
+#### 02 / Technical Toolbox
 
 <div align="left">
   <strong>Primary</strong><br>
@@ -29,7 +30,6 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
   <img src="https://img.shields.io/badge/-000000?style=flat&logo=macos&logoColor=white" alt="macOS">
 </div>
 
-<div align="right">
   <strong>Software Development</strong><br>
   <img src="https://img.shields.io/badge/-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase">
@@ -37,7 +37,7 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
   <img src="https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
-  <br><br>
+  <br>
   <strong>Content Creation</strong><br>
   <img src="https://img.shields.io/badge/-18A497?style=flat&logo=photopea&logoColor=white" alt="Photopea">
   <img src="https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
@@ -49,6 +49,7 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
 <br><br>
 
 ---
+### 03 / little bit about me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.gif">
@@ -56,14 +57,17 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
   <img src="assets/terminal.gif" width="400" align="right">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chv.logo-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/chv.logo.png">
-  <img src="assets/chv.logo.png" width="50" align="left" valign="middle">
-</picture>
-
 <br><br>
 
-<img src="https://readmeme.eu.cc/api/time.svg?timezone=America/New_York&timeFormat=12h&showSeconds=1&showDate=1&showDay=1" alt="Time" align="left" width="200" height="200">
+<img src="https://readmeme.eu.cc/api/quote.svg?theme=classic&quoteCategory=programming&label=quotes.png" alt="Time" align="left" width="200" height="200">
 
 <br clear="all">
+
+<br><br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chv.logo-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chv.logo.png">
+    <img src="assets/chv.logo.png" width="50">
+  </picture>
+</p>
