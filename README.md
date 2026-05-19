@@ -46,20 +46,20 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
 
 <br clear="all"/>
 
-<br><br>
+<br>
 
 ---
-### 03 / little bit about me
+#### 03 / little bit about me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.gif">
-  <img src="assets/terminal.gif" width="400" align="right">
+  <img src="assets/terminal.gif" width="200" align="right">
 </picture>
 
 <br><br>
 
-<img src="https://readmeme.eu.cc/api/quote.svg?theme=classic&quoteCategory=programming&label=quotes.png" alt="Time" align="left" width="200" height="200">
+![Daily Quote](https://readmeme.eu.cc/api/quote.svg?theme=classic&quoteCategory=programming&label=quote.png)
 
 <br clear="all">
 
