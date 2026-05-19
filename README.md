@@ -54,7 +54,7 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.gif">
-  <img src="assets/terminal.gif" width="200" align="right">
+  <img src="assets/terminal.gif" width="300" align="right">
 </picture>
 
 <br><br>
