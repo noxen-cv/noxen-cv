@@ -1,62 +1,73 @@
-<!-- Will also create a new minimalistic apple-like banner for aesthetic -->
-[![@noxen-cv](https://raw.githubusercontent.com/noxen-cv/noxen-cv/main/assets/banner.gif)](https://www.linkedin.com/in/christian-valenzuela-b68b92344/)
+<img align="left" src="assets/memoji.png" width="200">
 
---- 
-<!-- needs more revision for headline title positions -->
-<h4 align="center">🎓 3rd-Year BS Computer Science Student • 💻 Software and Embedded Systems Developer • 🎬 Passionate Filmmaker</h4>
+### whoami: **Christian Valenzuela**
 
-<!-- Needs further revision -->
-A Creative Technolgist passionate about software development and problem-solving. Currently honing skills in algorithms, data structures, and full-stack web development at university.  
+👾 **Aspiring Cloud & DevOps Engineer • Creative Director** <br>
+Building resilient, support-ready infrastructure and cohesive visual experiences.
 
-<!-- Will do Tech Stacks in an Image form divided by tech and filmmaking for more simplicity -->
-### 🛠️ Tech Stack     
-<table>
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/cvalenzuela.tech-221f1c.svg?style=flat-square&logo=chv&logoColor=white)](https://www.cvalenzuela.tech) <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-valenzuela-b68b92344/) 
+[![Email](https://img.shields.io/badge/Email-Contact-success?style=flat)](mailto:cvalenzuela1404@gmail.com)
+
+<br clear="left"/>
+
+---
+
+#### 01 / about 
+
+I bridge the gap between technical rigor and visual design. My focus is on reducing operational friction through automation (Terraform/Docker) while maintaining a creative eye for systems that are not just functional, but "support-ready."
+
+
+#### .. / Technical Toolbox
+<table width="100%" border="0">
   <tr>
-    <td valign="top" width="50%">
-
-**Languages**  
-- HTML, CSS, JavaScript  
-- Java, Python, C++  
-- PHP, SQL  
-
-</td>
-    <td valign="top" width="50%">
-
-**Frameworks & Tools**  
-- Git & GitHub  
-- MySQL  
-- Figma
-
-</td>
+    <td width="33%" align="left" valign="top">
+      <strong>Primary</strong><br>
+      <img src="https://skillicons.dev/icons?i=azure" width="22" height="22"/>
+      <img src="https://img.shields.io/badge/-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+      <img src="https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+      <img src="https://img.shields.io/badge/-000000?style=flat&logo=macos&logoColor=white" alt="macOS">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>Software Development</strong><br>
+      <img src="https://img.shields.io/badge/-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+      <img src="https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
+    </td>
+    <td width="33%" align="right" valign="top">
+      <strong>Content Creation</strong><br>
+      <img src="https://img.shields.io/badge/-18A497?style=flat&logo=photopea&logoColor=white" alt="Photopea">
+      <img src="https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/-233A51?style=flat&logo=davinciresolve&logoColor=white" alt="Davinci">
+    </td>
   </tr>
 </table>
 
-``` cpp
-do { 
-  if (stableCareer == true) {     
-        hobbies();                // Fun
-        learnDev(); learnFilm();  // Learn
-        generateIncome();         // Grind
-        rest();                   // Rest
-      }
-} while (Success == false);       // repeat, till Success
 
-// success not just in finance.
-```
-
-
-<!-- Popular Projects Section -->
-
-
-
-<!-- Contacts Section align to right, and should be icons only with a text before the icons 
-"Get in touch!: <icons> <icons>
-
-Email: @mailto:cvalenzuela1404@gmail.com -->
-
-<!-- Will make use of a better quote from popular artists -->
-> _“Wherever you are, the on point of invisible line strokes and cloaks.”_ – **Unknown**
-
-<!-- Inspired from Carl Castanas Portfolio --> 
-[//]: <> (Credits: carlcastanas)  
-
+<br><br><br>
+---
+<table width="100%" border="0">
+  <tr>
+    <td align="left" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/chv.logo-light.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/chv.logo.png">
+        <img src="assets/chv.logo.png" width="50">
+      </picture>
+      <br><br>
+      <img src="https://readmeme.eu.cc/api/quote.svg?theme=black&quoteCategory=motivation&label=quotes.png" alt="Quote">
+    </td>
+    <td align="right" valign="bottom">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.gif">
+        <img src="assets/terminal.gif" width="500">
+      </picture>
+    </td>
+  </tr>
+</table>
