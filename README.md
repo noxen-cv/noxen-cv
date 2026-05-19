@@ -16,7 +16,7 @@ Building resilient, support-ready infrastructure and cohesive visual experiences
 
 #### 01 / about 
 
-I bridge the gap between technical rigor and visual design. My focus is on reducing operational friction through automation (Terraform/Docker) while maintaining a creative eye for systems that are not just functional, but "support-ready."
+I bridge the gap between technical rigor and visual design. My focus is on reducing operational friction through automation while maintaining a creative eye for systems that are not just functional, but "support-ready."
 
 
 #### 02 / Technical Toolbox
@@ -34,7 +34,7 @@ I bridge the gap between technical rigor and visual design. My focus is on reduc
 
   <strong>Software Development</strong><br>
   <img src="https://skillicons.dev/icons?i=vscode" width="22" height="22"/>
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/-000000?style=flat&logo=githubcopilot&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
